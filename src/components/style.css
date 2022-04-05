@@ -1,0 +1,43 @@
+.list-item {
+    background-color:#92b0e98a;
+    padding: 1px;
+    margin: 1px;
+  }
+  
+  .list-item-cycle {
+    background-color:#92b0e98a;
+    padding: 1px;
+    margin: 1px;
+  }
+  
+  .user {
+    font-weight: 600;
+    font-size : 14px;
+   }
+  
+  .itemheading {
+    font-weight:770;
+    color:white;
+    font-size:14px;
+   }
+
+  .email {
+    color: salmon;
+  }
+
+  .Button-style {
+    background-color:'#1c88408a';
+    border:'1px solid black';
+    border-radius:'10px';
+    font-size: 15;
+    width:'100px';
+    height:'30px';
+    color: 'white'
+  }
+  
+  .Text-color {
+    color: rgb(54, 14, 150);
+    font-weight: bold;
+    font-size: 5;
+  }
+  
